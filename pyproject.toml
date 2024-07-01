@@ -15,6 +15,9 @@ dependencies = [
 "ipaddress",
 ]
 
+[tool.setuptools]
+py-modules = []
+
 [project.scripts]
 pholus3 = "pholus3:main"
 pholus = "pholus:main"
