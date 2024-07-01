@@ -2,7 +2,8 @@
 name = "Pholus"
 version = "1.0"
 dependencies = [
-"requests"
+"requests",
+"scapy"
 ]
 
 [tool.setuptools]
