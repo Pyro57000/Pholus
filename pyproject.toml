@@ -6,7 +6,7 @@ dependencies = [
 ]
 
 [tool.setuptools]
-py-modules = []
+py-modules = ["pholus", "pholus3"]
 
 [project.scripts]
 pholus3 = "pholus3:main"
