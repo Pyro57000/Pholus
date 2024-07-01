@@ -16,4 +16,5 @@ dependencies = [
 ]
 
 [project.scripts]
-MSOLSPray = "MSOLSpray:main"
+pholus = "pholus:main"
+pholus3 = "pholus3:main"
