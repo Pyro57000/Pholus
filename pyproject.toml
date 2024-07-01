@@ -16,5 +16,4 @@ dependencies = [
 ]
 
 [project.scripts]
-pholus = "pholus:main"
 pholus3 = "pholus3:main"
