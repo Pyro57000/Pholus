@@ -1,6 +1,10 @@
 [project]
 name = "Pholus"
 version = "1.0"
+packages = [
+"pholus"
+"pholus3"
+]
 dependencies = [
 "requests",
 "argparse",
