@@ -2,15 +2,7 @@
 name = "Pholus"
 version = "1.0"
 dependencies = [
-"requests",
-"binascii",
-"multiprocessing",
-"logging",
-"itertools",
-"scapy",
-"itertools",
-"codecs",
-"ipaddress",
+"requests"
 ]
 
 [tool.setuptools]
