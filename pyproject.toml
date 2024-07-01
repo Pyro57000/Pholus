@@ -3,7 +3,6 @@ name = "Pholus"
 version = "1.0"
 dependencies = [
 "requests",
-"argparse",
 "re",
 "binascii",
 "multiprocessing",
