@@ -1,0 +1,19 @@
+[project]
+name = "Pholus"
+version = "1.0"
+dependencies = [
+"requests",
+"argparse",
+"re",
+"binascii",
+"multiprocessing",
+"logging",
+"itertools",
+"scapy",
+"itertools",
+"codecs",
+"ipaddress",
+]
+
+[project.scripts]
+MSOLSPray = "MSOLSpray:main"
