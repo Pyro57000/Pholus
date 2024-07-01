@@ -16,7 +16,7 @@ dependencies = [
 ]
 
 [packages]
-pholus
+pholus,
 pholus3
 
 
