@@ -15,10 +15,6 @@ dependencies = [
 "ipaddress",
 ]
 
-[packages]
-pholus,
-pholus3
-
-
 [project.scripts]
-pholus3 = "pholus3:main"
+pholus3 = "pholus3:main",
+pholus = "pholus:main"
